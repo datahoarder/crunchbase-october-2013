@@ -1,0 +1,15 @@
+# CrunchBase Licensing Policy (Prior to December 12, 2013)
+
+https://info.crunchbase.com/docs/licensing-policy-v1/
+
+CrunchBase is a user contributed global resource of the Tech industry profiling the people, companies and venture capital that make up this community. CrunchBase.com is operated by CrunchBase.
+
+We permit anyone to republish our content in accordance with this licensing policy.
+
+We provide CrunchBase’s content under the Creative Commons Attribution License [CC-BY]. Our content includes structured data, overviews and media files associated with companies and people. Our schema, and documentation are also offered under the Creative Commons license.
+
+We ask that API users link back to CrunchBase from any pages that use CrunchBase data. We want to make sure that everyone is able to find the source of the content to keep the service up-to-date and accurate.
+
+This Licensing Policy may be updated from time to time as our services change and grow. If you have any questions about this policy please contact us at licensing@crunchbase.com.
+
+CrunchBase provides a specific licensing contract for services that charge for the use of their data. Contact licensing@crunchbase.com
